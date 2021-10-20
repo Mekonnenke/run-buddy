@@ -9,7 +9,7 @@ A website that offer fitness training services.
 HTML CSS
 
 ## Website
-https://lernaantion.github.io/run-buddy/
+https://lernantion.github.io/run-buddy/
 
 ##Contribution
 Made with ❤ by Mekonnen Mohammed.
