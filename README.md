@@ -14,4 +14,4 @@ HTML CSS
 https://lernaantion.github.io/run-buddy/
 
 ##Contribution
-Made with ❤ by Mekonnen Mohammed.
+develop with ❤ by Mekonnen Mohammed.
