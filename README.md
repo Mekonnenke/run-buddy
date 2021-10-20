@@ -15,7 +15,7 @@ A website that offer fitness training services.
 * CSS
 
 ## Website
-https://lernaantion.github.io/run-buddy/
+https://lernantion.github.io/run-buddy/
 
 ##Contribution
 <<<<<<< HEAD
